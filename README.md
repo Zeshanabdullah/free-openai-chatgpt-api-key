@@ -143,6 +143,10 @@ axios.get(apiUrl)
   });
 ```
 For any other language integration, visit: https://hdstockimages.com/get-free-openai-chatgpt-api/
+
+## Video Preview of using API in PHP
+[![Video Preview of using API in PHP](https://img.youtube.com/vi/67oiLyiEwgQ/0.jpg)](https://www.youtube.com/watch?v=67oiLyiEwgQ)
+
 ## Features
 
 - **Get API Key Without Registration**: Obtain your ChatGPT API key instantly without the need for a registration process.
